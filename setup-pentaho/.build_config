@@ -1,0 +1,6 @@
+LABEL=philiphuang/pdi-carte:9.3-mysql-8
+PENTAHO_UID=1010
+PENTAHO_GID=0
+testImage(){
+    echo "没有测试"
+}
