@@ -1,4 +1,4 @@
-LABEL=philiphuang/pdi-carte:9.3-mysql-8
+LABEL=philiphuang/pdi-carte:9.3-mysql-8-noauth
 PENTAHO_UID=1010
 PENTAHO_GID=0
 testImage(){
